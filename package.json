@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@clerk/clerk-react": "^4.30.5",
     "@libsql/client": "^0.4.3",
     "@radix-ui/react-dialog": "^1.0.5",
     "date-fns": "^3.3.1",
